@@ -199,7 +199,7 @@ Employee-Attrition-Rate/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/shreya975/Employee-Attrition-Rate.git
+https://github.com/aarya619/AI-Employee-Attrition-Intelligence-Platform
 ```
 
 ## Move into Project
