@@ -258,25 +258,6 @@ The application provides:
 
 ---
 
-# 💻 Application Screens
-
-## Home Dashboard
-
-(Add Screenshot Here)
-
----
-
-## Prediction Dashboard
-
-(Add Screenshot Here)
-
----
-
-## Workforce Analytics
-
-(Add Screenshot Here)
-
----
 
 # 🎯 Future Improvements
 
