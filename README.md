@@ -313,7 +313,7 @@ This application helps HR teams to:
 
 ## Aarya Kothe
 
-Email: aaeyakothe2@gmail.com
+Email: aaryakothe2@gmail.com
 
 Link: https://ai-employee-attrition-intelligence-platform-cn3ztacq9tyohf5dco.streamlit.app/
 
