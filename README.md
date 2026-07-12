@@ -14,8 +14,7 @@ An AI-powered Human Resource Analytics application that predicts whether an empl
 
 ## 🚀 Try the Application
 
-👉 https://employee-attrition-rate-j33mghqrbaac9kce8uerfz.streamlit.app/
-
+👉 https://ai-employee-attrition-intelligence-platform-cn3ztacq9tyohf5dco.streamlit.app/
 ---
 
 # 📌 Project Overview
