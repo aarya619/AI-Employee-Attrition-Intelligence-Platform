@@ -293,13 +293,7 @@ The application provides:
 
 ---
 
-# 🚀 Deployment
 
-The application is deployed using **Streamlit Cloud**.
-
-### Live Application
-
-👉 https://employee-attrition-rate-j33mghqrbaac9kce8uerfz.streamlit.app/
 
 ---
 
@@ -317,15 +311,11 @@ This application helps HR teams to:
 
 # 👩‍💻 Author
 
-## Shreya Mahajan
+## Aarya Kothe
 
-### GitHub
 
-https://github.com/shreya975
 
-### LinkedIn
 
-https://www.linkedin.com/in/shreya-mahajan-b38b28385/
 
 ---
 
